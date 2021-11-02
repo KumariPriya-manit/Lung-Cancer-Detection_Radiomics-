@@ -1,6 +1,6 @@
-# Lung-Cancer-Detection_Radiomics-
-## Project Overview
-The goal of the project is to predict the type of cancer a person has based on images of a person's lungs. Although there are different types of cancer stages, the clincal T stage was the only one considered. Clinical T stage values range from 1 to 5 and the accuracy of the training of the network is outputted.
+# Lung Cancer Detection through implementing Radiomics
+##  Overview
+The goal of this repository is to predict the type of cancer a person has based on images of a person's lungs. Although there are different types of cancer stages, the clincal T stage was the only one considered. Clinical T stage values range from 1 to 5 and the accuracy of the training of the network is outputted.
 ## Steps
 * Import data set
 * Retrieve data from the first patient as a test
